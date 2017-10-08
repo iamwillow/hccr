@@ -1,0 +1,67 @@
+@media (min-width: 600px) {
+  .cover {
+    background: url('../img/bg800.png') no-repeat;
+    height: 400px;
+  }
+
+  .white-bar {
+    top: 65px;
+    padding: 25px 30px 15px 30px;
+  }
+
+  h1 { font-size: 35px; }
+  h2 { font-size: 30px; }
+  h3 { font-size: 20px; }
+}
+
+@media (min-width: 800px) {
+  .cover {
+    background: url('../img/bg1000.png') no-repeat;
+    height: 445px;
+  }
+
+  .white-bar {
+    top: 80px;
+    padding: 25px 30px 15px 30px;
+  }
+
+  h1 { font-size: 40px; }
+  h2 { font-size: 30px; }
+  h3 { font-size: 20px; }
+  .logo { font-size: 22px; }
+
+  .flex-parent {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+@media (min-width: 1000px) {
+  .cover {
+    background: url('../img/bg1400.png') no-repeat;
+    height: 600px;
+  }
+
+  .white-bar {
+    top: 100px;
+    padding: 35px 50px 25px 50px;
+  }
+
+  h1 { font-size: 40px; }
+  h2 { font-size: 32px; }
+  h3 { font-size: 22px; }
+}
+
+@media (min-width: 1400px) {
+  .cover {
+    background: url('../img/bg1800.png') no-repeat;
+    height: 275px;
+  }
+}
+
+@media (min-width: 1800px) {
+  .cover {
+    background: url('../img/bg2200.png') no-repeat;
+    height: 275px;
+  }
+}

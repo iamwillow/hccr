@@ -1,31 +1,123 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif; }
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300; }
 
-.App {
-  text-align: center; }
+div {
+  margin: 0; }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px; }
+h1, h2, h3 {
+  font-weight: 100; }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white; }
+h1 {
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0 40px 0; }
 
-.App-intro {
-  font-size: large; }
+h2 {
+  font-size: 25px; }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg); }
-  to {
-    transform: rotate(360deg); } }
+h3 {
+  font-size: 15px; }
 
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif; }
+p {
+  font-size: 16px; }
+
+.bold {
+  font-weight: 400; }
+
+.logo {
+  font-size: 20px;
+  margin: 2px 0;
+  font-family: 'Raleway', sans-serif; }
+
+.header {
+  background-color: #4a4a4a;
+  color: #eee;
+  padding: 20px 25px; }
+
+.cover {
+  background: url("../img/bg600.png") no-repeat;
+  height: 320px; }
+
+.white-bar {
+  color: #333;
+  padding: 15px 20px 5px 20px;
+  background-color: rgba(255, 255, 255, 0.6);
+  position: relative;
+  top: 60px; }
+  .white-bar h2, .white-bar h3 {
+    margin: 0 0 10px 0; }
+
+.how-it-works {
+  background-color: #767676;
+  color: #fff;
+  padding: 20px 50px; }
+  .how-it-works div {
+    text-align: center; }
+
+.shop {
+  background-color: #4a4a4a;
+  padding: 20px 25px;
+  color: #fff; }
+
+.contact {
+  padding: 20px 25px; }
+
+@media (min-width: 600px) {
+  .cover {
+    background: url("../img/bg800.png") no-repeat;
+    height: 400px; }
+  .white-bar {
+    top: 65px;
+    padding: 25px 30px 15px 30px; }
+  h1 {
+    font-size: 35px; }
+  h2 {
+    font-size: 30px; }
+  h3 {
+    font-size: 20px; } }
+
+@media (min-width: 800px) {
+  .cover {
+    background: url("../img/bg1000.png") no-repeat;
+    height: 445px; }
+  .white-bar {
+    top: 80px;
+    padding: 25px 30px 15px 30px; }
+  h1 {
+    font-size: 40px; }
+  h2 {
+    font-size: 30px; }
+  h3 {
+    font-size: 20px; }
+  .logo {
+    font-size: 22px; }
+  .flex-parent {
+    display: flex;
+    justify-content: space-around; } }
+
+@media (min-width: 1000px) {
+  .cover {
+    background: url("../img/bg1400.png") no-repeat;
+    height: 600px; }
+  .white-bar {
+    top: 100px;
+    padding: 35px 50px 25px 50px; }
+  h1 {
+    font-size: 40px; }
+  h2 {
+    font-size: 32px; }
+  h3 {
+    font-size: 22px; } }
+
+@media (min-width: 1400px) {
+  .cover {
+    background: url("../img/bg1800.png") no-repeat;
+    height: 275px; } }
+
+@media (min-width: 1800px) {
+  .cover {
+    background: url("../img/bg2200.png") no-repeat;
+    height: 275px; } }
