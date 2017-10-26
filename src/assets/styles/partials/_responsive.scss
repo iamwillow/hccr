@@ -1,6 +1,6 @@
 @media (min-width: 600px) {
   .cover {
-    background: url('../img/bg800.png') no-repeat;
+    background: url('../img/bg800.png') no-repeat #767676;
     height: 400px;
   }
 
@@ -9,14 +9,27 @@
     padding: 25px 30px 15px 30px;
   }
 
-  h1 { font-size: 35px; }
+  h1 { font-size: 35px; 
+       margin: 10px 0 80px 0; }
   h2 { font-size: 30px; }
   h3 { font-size: 20px; }
+  p  { font-size: 16px; }
+
+  .how-it-works-parent.flex-parent {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .how-it-works-parent {
+    div > img {
+      width: 150px;
+    }
+  }
 }
 
 @media (min-width: 800px) {
   .cover {
-    background: url('../img/bg1000.png') no-repeat;
+    background: url('../img/bg1000.png') no-repeat #767676;
     height: 445px;
   }
 
@@ -37,8 +50,10 @@
 }
 
 @media (min-width: 1000px) {
+  $base-padding:  70px 25px 150px 25px;
+
   .cover {
-    background: url('../img/bg1400.png') no-repeat;
+    background: url('../img/bg1400.png') no-repeat #767676;
     height: 600px;
   }
 
@@ -50,18 +65,35 @@
   h1 { font-size: 40px; }
   h2 { font-size: 32px; }
   h3 { font-size: 22px; }
+
+  .boys:hover {
+    //background: url('../img/bg-boys.jpg') no-repeat center center;
+  }
+  .girls:hover {
+    //background: url('../img/bg-girls.jpg') no-repeat center center;
+  }
+  .men:hover {
+    //background: url('../img/bg-men.jpg') no-repeat center center;
+  }
+  .women:hover {
+    //background: url('../img/bg-women.jpg') no-repeat center center;
+  }
+
+  .how-it-works, .shop, .contact {
+    padding: $base-padding;
+  }
 }
 
 @media (min-width: 1400px) {
   .cover {
-    background: url('../img/bg1800.png') no-repeat;
+    background: url('../img/bg1800.png') no-repeat #767676;
     height: 275px;
   }
 }
 
 @media (min-width: 1800px) {
   .cover {
-    background: url('../img/bg2200.png') no-repeat;
+    background: url('../img/bg2200.png') no-repeat #767676;
     height: 275px;
   }
 }

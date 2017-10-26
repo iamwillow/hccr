@@ -1,0 +1,32 @@
+[
+  {
+    "gender": "girls",
+    "type": "jacket",
+    "img": "girls/legacy-jacket-aquamarine.png",
+    "title": "Girls' Jacket - Aquamarine"
+  },
+  {
+    "gender": "girls",
+    "type": "jacket",
+    "img": "girls/legacy-jacket-bubblegum.png",
+    "title": "Girls' Jacket - Bubblegum"
+  },
+  {
+    "gender": "boys",
+    "type": "jacket",
+    "img": "boys/camo-jr-jacket-ocean.png",
+    "title": "Boys' Jacket - Ocean"
+  },
+  {
+    "gender": "boys",
+    "type": "jacket",
+    "img": "boys/camo-jr-jacket-tnt.png",
+    "title": "Boys' Jacket - TNT"
+  },
+  {
+    "gender": "kids",
+    "type": "pants",
+    "img": "kids/rodeo-pant-black.png",
+    "title": "Kids' Snow Pants"
+  }
+]

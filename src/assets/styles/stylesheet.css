@@ -1,3 +1,9 @@
+.temp {
+  color: #FF9500; }
+
+.go-back {
+  margin-top: 30px; }
+
 body {
   margin: 0;
   padding: 0;
@@ -13,7 +19,7 @@ h1, h2, h3 {
 h1 {
   text-align: center;
   font-size: 30px;
-  margin: 10px 0 40px 0; }
+  margin: 10px 0 50px 0; }
 
 h2 {
   font-size: 25px; }
@@ -22,7 +28,7 @@ h3 {
   font-size: 15px; }
 
 p {
-  font-size: 16px; }
+  font-size: 20px; }
 
 .bold {
   font-weight: 400; }
@@ -36,10 +42,13 @@ p {
   background-color: #4a4a4a;
   color: #eee;
   padding: 20px 25px; }
+  .header a {
+    color: #fff;
+    text-decoration: none; }
 
 .cover {
-  background: url("../img/bg600.png") no-repeat;
-  height: 320px; }
+  background: url("../img/bg600.png") no-repeat #767676;
+  height: 330px; }
 
 .white-bar {
   color: #333;
@@ -53,35 +62,72 @@ p {
 .how-it-works {
   background-color: #767676;
   color: #fff;
-  padding: 20px 50px; }
+  padding: 50px 25px 80px 25px; }
   .how-it-works div {
     text-align: center; }
 
+.how-it-works-parent div > img {
+  width: 100px; }
+
 .shop {
   background-color: #4a4a4a;
-  padding: 20px 25px;
+  padding: 50px 25px 80px 25px;
   color: #fff; }
+  .shop h2 {
+    text-align: center; }
+  .shop a {
+    color: #fff;
+    text-decoration: none;
+    padding: 4% 10%; }
+  .shop a:hover {
+    background-color: #565656;
+    cursor: pointer; }
 
 .contact {
-  padding: 20px 25px; }
+  padding: 50px 25px 80px 25px; }
+
+.clothing-order {
+  margin-bottom: 100px; }
+
+.clothes {
+  margin-bottom: 100px; }
+  .clothes .flex-parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; }
+    .clothes .flex-parent .flex-child {
+      width: 250px; }
+  .clothes .item-desc {
+    margin-top: 0; }
+
+.item-img {
+  width: 200px; }
 
 @media (min-width: 600px) {
   .cover {
-    background: url("../img/bg800.png") no-repeat;
+    background: url("../img/bg800.png") no-repeat #767676;
     height: 400px; }
   .white-bar {
     top: 65px;
     padding: 25px 30px 15px 30px; }
   h1 {
-    font-size: 35px; }
+    font-size: 35px;
+    margin: 10px 0 80px 0; }
   h2 {
     font-size: 30px; }
   h3 {
-    font-size: 20px; } }
+    font-size: 20px; }
+  p {
+    font-size: 16px; }
+  .how-it-works-parent.flex-parent {
+    display: flex;
+    justify-content: space-around; }
+  .how-it-works-parent div > img {
+    width: 150px; } }
 
 @media (min-width: 800px) {
   .cover {
-    background: url("../img/bg1000.png") no-repeat;
+    background: url("../img/bg1000.png") no-repeat #767676;
     height: 445px; }
   .white-bar {
     top: 80px;
@@ -100,7 +146,7 @@ p {
 
 @media (min-width: 1000px) {
   .cover {
-    background: url("../img/bg1400.png") no-repeat;
+    background: url("../img/bg1400.png") no-repeat #767676;
     height: 600px; }
   .white-bar {
     top: 100px;
@@ -110,14 +156,16 @@ p {
   h2 {
     font-size: 32px; }
   h3 {
-    font-size: 22px; } }
+    font-size: 22px; }
+  .how-it-works, .shop, .contact {
+    padding: 70px 25px 150px 25px; } }
 
 @media (min-width: 1400px) {
   .cover {
-    background: url("../img/bg1800.png") no-repeat;
+    background: url("../img/bg1800.png") no-repeat #767676;
     height: 275px; } }
 
 @media (min-width: 1800px) {
   .cover {
-    background: url("../img/bg2200.png") no-repeat;
+    background: url("../img/bg2200.png") no-repeat #767676;
     height: 275px; } }

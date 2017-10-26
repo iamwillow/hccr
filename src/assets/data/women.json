@@ -1,0 +1,44 @@
+[
+  {
+    "gender": "women",
+    "type": "jacket",
+    "img": "women/glacier-jacket-black.png",
+    "title": "Glacier Jacket - Black"
+  },
+  {
+    "gender": "women",
+    "type": "jacket",
+    "img": "women/glacier-jacket-meteor.png",
+    "title": "Glacier Jacket - Meteor"
+  },
+  {
+    "gender": "women",
+    "type": "jacket",
+    "img": "women/glacier-jacket-plum.png",
+    "title": "Glacier Jacket - Plum"
+  },
+  {
+    "gender": "women",
+    "type": "shirt",
+    "img": "women/Basecamp-Down-Shirt-Black.png",
+    "title": "Down Shirt - Black"
+  },
+  {
+    "gender": "women",
+    "type": "shirt",
+    "img": "women/Basecamp-Down-Shirt-Aquamarine.png",
+    "title": "Down Shirt - Aquamarine"
+  },
+  {
+    "gender": "women",
+    "type": "pants",
+    "img": "women/aura-pant-black.png",
+    "title": "Snow Pants - Black"
+  },
+  {
+    "gender": "women",
+    "type": "pants",
+    "img": "women/aura-pant-plum.png",
+    "title": "Snow Pants - Plum"
+  }
+]

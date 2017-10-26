@@ -1,0 +1,50 @@
+[
+  {
+    "gender": "men",
+    "type": "jacket",
+    "img": "men/arnold-jacket-black.png",
+    "title": "Arnold Jacket - Black"
+  },
+  {
+    "gender": "men",
+    "type": "jacket",
+    "img": "men/arnold-jacket-slate.png",
+    "title": "Arnold Jacket - Slate"
+  },
+  {
+    "gender": "men",
+    "type": "jacket",
+    "img": "men/planet-jacket-ocean.png",
+    "title": "Planet Jacket"
+  },
+  {
+    "gender": "men",
+    "type": "jacket",
+    "img": "men/tortoise-jacket-conifer-lime.png",
+    "title": "Jacket - Lime"
+  },
+  {
+    "gender": "men",
+    "type": "shirt",
+    "img": "men/stark-down-shirt-black.png",
+    "title": "Down Shirt - Black"
+  },
+  {
+    "gender": "men",
+    "type": "pants",
+    "img": "men/e2f-pant-black.png",
+    "title": "E2F Snow Pants - Black"
+  },
+  {
+    "gender": "men",
+    "type": "pants",
+    "img": "men/e2f-pant-slate.png",
+    "title": "E2F Snow Pants - Slate"
+  },
+  {
+    "gender": "men",
+    "type": "pants",
+    "img": "men/fdgb-black.png",
+    "title": "FDGB Snow Pants - black"
+  }
+]
