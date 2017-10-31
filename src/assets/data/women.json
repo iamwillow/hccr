@@ -2,43 +2,64 @@
   {
     "gender": "women",
     "type": "jacket",
-    "img": "women/glacier-jacket-black.png",
-    "title": "Glacier Jacket - Black"
+    "img": "women/glacier-jacket-black.jpg",
+    "title": "Glacier Jacket - Black",
+    "price": "$15.00",
+    "desc": "The Women's Glacier Jacket from turbine outerwear comes in a slim fit and features 120g insulation, 10,000 WPB laminate woven fabric, durable water repellent treatment and critical taped zippers. This jacket is a great option if you need a little more help staying warm while enjoying your favorite outdoor activities.",
+    "tags": "women, women's, jacket, coat, glacier, black, ski, snowboard, winter, coat, mountain, warm, comfortable"
   },
   {
     "gender": "women",
     "type": "jacket",
-    "img": "women/glacier-jacket-meteor.png",
-    "title": "Glacier Jacket - Meteor"
+    "img": "women/glacier-jacket-meteor.jpg",
+    "title": "Glacier Jacket - Meteor",
+    "price": "$15.00",
+    "desc": "The Women's Glacier Jacket from turbine outerwear comes in a slim fit and features 120g insulation, 10,000 WPB laminate woven fabric, durable water repellent treatment and critical taped zippers. This jacket is a great option if you need a little more help staying warm while enjoying your favorite outdoor activities.",
+    "tags": "women, women's, jacket, coat, glacier, meteor, ski, snowboard, winter, coat, mountain, warm, comfortable"
   },
   {
     "gender": "women",
     "type": "jacket",
-    "img": "women/glacier-jacket-plum.png",
-    "title": "Glacier Jacket - Plum"
+    "img": "women/glacier-jacket-plum.jpg",
+    "title": "Glacier Jacket - Plum",
+    "price": "$15.00",
+    "desc": "The Women's Glacier Jacket from turbine outerwear comes in a slim fit and features 120g insulation, 10,000 WPB laminate woven fabric, durable water repellent treatment, and critical taped zippers. This jacket is a great option if you need a little more help staying warm while enjoying your favorite outdoor activities.",
+    "tags": "women, women's, jacket, coat, glacier, plum, purple, ski, snowboard, winter, coat, mountain, warm, comfortable"
   },
   {
     "gender": "women",
     "type": "shirt",
-    "img": "women/Basecamp-Down-Shirt-Black.png",
-    "title": "Down Shirt - Black"
+    "img": "women/Basecamp-Down-Shirt-Black.jpg",
+    "title": "Down Shirt - Black",
+    "price": "$7.50",
+    "desc": "The Basecamp from Turbine Outerwear adds a little extra warmth on those cold rocky mountain days. The Basecamp offers 30g of 90/10 down feather with 600 fill power, soft nylon rip-stop-down proof- treated and water resistant, knitted fabric for extra stretchability and comfort and is self-packable into a travel pouch. Great addition for anyone looking for a little extra warmth in a versatile mid layer.",
+    "tags": "Women, women's jacket, basecamp, black, ski, snowboard, winter, coat, baselayer, midlayer, mountain, warm, comfortable"
   },
   {
     "gender": "women",
     "type": "shirt",
-    "img": "women/Basecamp-Down-Shirt-Aquamarine.png",
-    "title": "Down Shirt - Aquamarine"
+    "img": "women/Basecamp-Down-Shirt-Aquamarine.jpg",
+    "title": "Down Shirt - Aquamarine",
+    "price": "$7.50",
+    "desc": "The Basecamp from Turbine Outerwear adds a little extra warmth on those cold rocky mountain days. The Basecamp offers 30g of 90/10 down feather with 600 fill power, soft nylon rip-stop-down proof- treated and water resistant, knitted fabric for extra stretchability and comfort and is self-packable into a travel pouch. Great addition for anyone looking for a little extra warmth in a versatile mid layer.",
+    "tags": "Women, women's jacket, basecamp, Aquamarine, ski, snowboard, winter, coat, baselayer, midlayer, mountain, warm, comfortable"
   },
   {
     "gender": "women",
     "type": "pants",
-    "img": "women/aura-pant-black.png",
-    "title": "Snow Pants - Black"
+    "img": "women/aura-pant-black.jpg",
+    "title": "Snow Pants - Black",
+    "price": "$15.00",
+    "desc": "The Aura Pants from Turbine Outerwear offers a slim fit design for stylish comfort on or off the hill featuring a tricot lining, 10,000 WPB lamination woven fabric, durable water repellent treatment and are fully taped. Great pants for all our high country activities during the day and comfortable enough to wear right into the night at your favorite apres spot.",
+    "tags": "Women, pant, Aura, black, ski, snowboard, winter, mountain, warm, comfortable"
   },
   {
     "gender": "women",
     "type": "pants",
-    "img": "women/aura-pant-plum.png",
-    "title": "Snow Pants - Plum"
+    "img": "women/aura-pant-plum.jpg",
+    "title": "Snow Pants - Plum",
+    "price": "$15.00",
+    "desc": "The Aura Pants from Turbine Outerwear offers a slim fit design for stylish comfort on or off the hill featuring a tricot lining, 10,000 WPB lamination woven fabric, durable water repellent treatment and are fully taped. Great pants for all our high country activities during the day and comfortable enough to wear right into the night at your favorite apres spot.",
+    "tags": "Women, pant, Aura, plum, ski, snowboard, winter, mountain, warm, comfortable"
   }
 ]

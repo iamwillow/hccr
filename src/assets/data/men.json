@@ -3,48 +3,72 @@
     "gender": "men",
     "type": "jacket",
     "img": "men/arnold-jacket-black.png",
-    "title": "Arnold Jacket - Black"
+    "title": "Arnold Jacket - Black" ,
+    "price": "$15.00",
+    "desc": "The Arnold Jacket from turbine outerwear comes in a regular fit and features 120g insulation, 10,000 WPB coated poly matte fabric, durable water repellent treatment and critical taped zippers. This jacket is a great option if you need a little more help staying warm while enjoying your favorite outdoor activities.",
+    "tags": "men, men's, jacket, coat, Arnold, black, winter, coat, mountain, ski, snowboard, warm, comfortable"
   },
   {
     "gender": "men",
     "type": "jacket",
     "img": "men/arnold-jacket-slate.png",
-    "title": "Arnold Jacket - Slate"
+    "title": "Arnold Jacket - Slate",
+    "price": "$15.00",
+    "desc": "The Arnold Jacket from turbine outerwear comes in a regular fit and features 120g insulation, 10,000 WPB coated poly matte fabric, durable water repellent treatment and critical taped zippers. This jacket is a great option if you need a little more help staying warm while enjoying your favorite outdoor activities.",
+    "tags": "Men, Men's, Jacket, Arnold, Slate, ski, snowboard, winter, coat, mountain, warm, comfortable"
   },
   {
     "gender": "men",
     "type": "jacket",
     "img": "men/planet-jacket-ocean.png",
-    "title": "Planet Jacket"
+    "title": "Planet Jacket",
+    "price": "$17.50",
+    "desc": "The Planet Jacket from turbine outerwear comes in a slim fit to help with unrestricted movement while out in the winter elements. It features critical taped zippers, 60g insulation, 10,000 WPB laminate woven fabric and a durable water repellent treatment to help keep you warm and dry while looking stylish on the slopes or around town.",
+    "tags": "Men, Men's, Jacket, Planet, Ocean, ski, snowboard, winter, coat, mountain, warm, comfortable"
   },
   {
     "gender": "men",
     "type": "jacket",
     "img": "men/tortoise-jacket-conifer-lime.png",
-    "title": "Jacket - Lime"
+    "title": "Jacket - Lime",
+    "price": "$17.50",
+    "desc": "The Tortoise jacket from Turbine Outerwear comes in a regular fit and features 120g insulation, 10,000 WPB laminate woven fabric, durable water repellent treatment and is fully taped. A sure bet for style and warmth weather your on the trails, apre at the local bar or out around town with friends the Tortoise has you covered.",
+    "tags": "Men, Men's, Jacket, tortoise, conifer, Winter, Coat, ski, snowboard, mountains, warm, comfortable"
   },
   {
     "gender": "men",
     "type": "shirt",
     "img": "men/stark-down-shirt-black.png",
-    "title": "Down Shirt - Black"
+    "title": "Down Shirt - Black",
+    "price": "$7.50",
+    "desc": "The Stark base layer from turbine adds a little extra warmth on those cold rocky mountain days. The stark offers 30g of 90/10 down feather with 600 fill power, soft nylon rip-stop-down proof- treated and water resistant, knitted fabric for extra stretchability and comfort and is self-packable into a travel pouch. Great addition for anyone looking for a little extra warmth in a versatile mid layer.",
+    "tags": "Men, Men's, Jacket, stark, black, ski, snowboard, winter, coat, baselayer, midlayer, mountain, warm, comfortable"
   },
   {
     "gender": "men",
     "type": "pants",
     "img": "men/e2f-pant-black.png",
-    "title": "E2F Snow Pants - Black"
+    "title": "E2F Snow Pants - Black",
+    "price": "$15.00",
+    "desc": "The E2F Pant from Turbine Outerwear offers style and versatility on or off the hill. The E2F comes in slim fit and features 10,000 WPB lamination woven fabric, tricot lined, durable water repellent treatment and are fully taped. These Stylish pants are a great option for any of our high country activities or just to wear around town for extra warmth.",
+    "tags": "Men, Men's, Pant, E2F, Black"
   },
   {
     "gender": "men",
     "type": "pants",
     "img": "men/e2f-pant-slate.png",
-    "title": "E2F Snow Pants - Slate"
+    "title": "E2F Snow Pants - Slate",
+    "price": "$15.00",
+    "desc": "The E2F Pant from Turbine Outerwear offers style and versatility on or off the hill. The E2F comes in slim fit and features 10,000 WPB lamination woven fabric, tricot lined, durable water repellent treatment and are fully taped. These Stylish pants are a great option for any of our high country activities or just to wear around town for extra warmth.",
+    "tags": "Men, Men's, Pant, E2F, Slate"
   },
   {
     "gender": "men",
     "type": "pants",
     "img": "men/fdgb-black.png",
-    "title": "FDGB Snow Pants - black"
+    "title": "FDGB Snow Pants - black",
+    "price": "$15.00",
+    "desc": "The FDGB pant from Turbine outerwear comes in a regular fit and features tricot lining, 10,000mm WPB lamination polyester-matte fabric, critical taping and a durable water repellent treatment. A little more room for some extra layers to help keep you warm all day long.",
+    "tags": "Men, Men's, Pant, FDGB, black, winter, ski, snowboard, mountain, warm, comfortable"
   }
 ]

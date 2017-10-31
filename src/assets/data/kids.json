@@ -3,30 +3,45 @@
     "gender": "girls",
     "type": "jacket",
     "img": "girls/legacy-jacket-aquamarine.png",
-    "title": "Girls' Jacket - Aquamarine"
+    "title": "Girls' Jacket - Aquamarine",
+    "price": "$10.00",
+    "desc": "The Legacy reversible Jacket from Turbine Outerwear offers 160g insulation, has 10,000mm WPB coated poly-dobby fabric as well as a durable water repellent treatment. A sure thing to help keep your little ones warm as they play in our winter wonderland.",
+    "tags": "Girl, Girls, Jacket, Legacy Aquamarine, winter, coat, ski, snowboard, mountain, warm, comfortable"
   },
   {
     "gender": "girls",
     "type": "jacket",
     "img": "girls/legacy-jacket-bubblegum.png",
-    "title": "Girls' Jacket - Bubblegum"
+    "title": "Girls' Jacket - Bubblegum",
+    "price": "$10.00",
+    "desc": "The Legacy reversible Jacket from Turbine Outerwear offers 160g insulation, has 10,000mm WPB coated poly-dobby fabric as well as a durable water repellent treatment. A sure thing to help keep your little ones warm as they play in our winter wonderland.",
+    "tags": "Girl, Girls, Jacket, Legacy Bubblegum, winter, coat, ski, snowboard, mountain, warm, comfortable"
   },
   {
     "gender": "boys",
     "type": "jacket",
     "img": "boys/camo-jr-jacket-ocean.png",
-    "title": "Boys' Jacket - Ocean"
+    "title": "Boys' Jacket - Ocean",
+    "price": "$10.00",
+    "desc": "The Camo Jr. reversible Jacket from Turbine Outerwear offers 120g insulation, has 10,000mm WPB coated polyester-matte fabric as well as a durable water repellent treatment. &amp;amp;nbsp;A sure thing to help keep your little ones warm as they play in our winter wonderland.",
+    "tags": "boys, boy, Jacket, Camo Jr., Ocean, winter, coat, ski, snowboard, mountain, warm, comfortable"
   },
   {
     "gender": "boys",
     "type": "jacket",
     "img": "boys/camo-jr-jacket-tnt.png",
-    "title": "Boys' Jacket - TNT"
+    "title": "Boys' Jacket - TNT",
+    "price": "$10.00",
+    "desc": "The Camo Jr. reversible Jacket from Turbine Outerwear offers 120g insulation, has 10,000mm WPB coated polyester-matte fabric as well as a durable water repellent treatment. &amp;amp;nbsp;A sure thing to help keep your little ones warm as they play in our winter wonderland.",
+    "tags": "boys, boy, Jacket, Camo Jr., TNT, winter, coat, ski, snowboard, mountain, warm, comfortable"
   },
   {
     "gender": "kids",
     "type": "pants",
     "img": "kids/rodeo-pant-black.png",
-    "title": "Kids' Snow Pants"
+    "title": "Kids' Snow Pants",
+    "price": "$10.00",
+    "desc": "The Rodeo kids pant from Turbine outerwear come fully lined with poly-taffeta and have a 120g of insulation, 10,000mm WPB coated polyester-matte fabric and has a durable water repellent treatment. These pants are a great way to help keep the kids warm and dry as the play all day in Colorado's winter playground.",
+    "tags": "boys, boy, girls, girl, kids, pants, rodeo, black, ski, snowboard, winter, mountain, warm, comfortable"
   }
 ]
