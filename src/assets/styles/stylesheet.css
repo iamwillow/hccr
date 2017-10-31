@@ -47,7 +47,7 @@ p {
     text-decoration: none; }
 
 .cover {
-  background: url("../img/bg600.png") no-repeat #767676;
+  background: url("../img/bg600.jpg") no-repeat #767676;
   height: 330px; }
 
 .white-bar {
@@ -60,7 +60,7 @@ p {
     margin: 0 0 10px 0; }
 
 .how-it-works {
-  background-color: #767676;
+  background-color: #526481;
   color: #fff;
   padding: 50px 25px 80px 25px; }
   .how-it-works div {
@@ -105,7 +105,7 @@ p {
 
 @media (min-width: 600px) {
   .cover {
-    background: url("../img/bg800.png") no-repeat #767676;
+    background: url("../img/bg800.jpg") no-repeat #767676;
     height: 400px; }
   .white-bar {
     top: 65px;
@@ -127,7 +127,7 @@ p {
 
 @media (min-width: 800px) {
   .cover {
-    background: url("../img/bg1000.png") no-repeat #767676;
+    background: url("../img/bg1000.jpg") no-repeat #767676;
     height: 445px; }
   .white-bar {
     top: 80px;
@@ -146,7 +146,7 @@ p {
 
 @media (min-width: 1000px) {
   .cover {
-    background: url("../img/bg1400.png") no-repeat #767676;
+    background: url("../img/bg1400.jpg") no-repeat #767676;
     height: 600px; }
   .white-bar {
     top: 100px;
@@ -162,10 +162,10 @@ p {
 
 @media (min-width: 1400px) {
   .cover {
-    background: url("../img/bg1800.png") no-repeat #767676;
+    background: url("../img/bg1800.jpg") no-repeat #767676;
     height: 275px; } }
 
 @media (min-width: 1800px) {
   .cover {
-    background: url("../img/bg2200.png") no-repeat #767676;
+    background: url("../img/bg2200.jpg") no-repeat #767676;
     height: 275px; } }
